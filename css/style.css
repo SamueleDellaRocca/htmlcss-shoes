@@ -25,6 +25,15 @@ html {
     text-decoration: none;
 }
 
+.bottone:hover {
+    box-shadow: -10px 5px 5px black;
+}
+
+.bottone:active {
+    background-color: lightgray;
+    color: black;
+}
+
 .bottone {
     display: inline-block;
     height: 80px;
