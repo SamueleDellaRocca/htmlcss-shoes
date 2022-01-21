@@ -66,3 +66,15 @@ html {
     font-weight: bold;
     text-align: center;
 }
+
+.numero2 {
+    background-color: green;
+}
+
+.numero3 {
+    background-color: yellow;
+}
+
+.scritta-n3 {
+    color: green;
+}
