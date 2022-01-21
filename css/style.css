@@ -1,0 +1,36 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.bottoni {
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    z-index: 100;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.bottone {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    font-weight: bold;
+    background-color: blue;
+}
