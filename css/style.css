@@ -36,6 +36,11 @@ html {
     font-size: 30px;
 }
 
+.bottone-n2 {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
 .carta {
     width: 100%;
     height: 100vh;
