@@ -6,6 +6,7 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .container {
@@ -36,10 +37,12 @@ html {
     font-size: 30px;
 }
 
+
 .bottone-n2 {
     margin-right: 40px;
     margin-left: 40px;
 }
+
 
 .carta {
     width: 100%;
