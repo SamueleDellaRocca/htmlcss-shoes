@@ -1,12 +1,12 @@
 html {
     font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth;
 }
 
 .container {
@@ -75,12 +75,14 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
+    width: 1200px;
 }
 
 .scritta {
     text-transform: uppercase;
     color: yellow;
-    font-size: 80PX;
+    font-size: 100PX;
     font-weight: bold;
     text-align: center;
 }
